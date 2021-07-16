@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://download.meizu.com/Firmware/Flyme/16T/9.21.6.29/cn_beta/20210629095625/641f413d/update.zip
   ROM_NAME: updata.zip
-  TZ: Asia/Shanghai 
+  TZ: Asia/Shanghai
 
 jobs:
   build:
