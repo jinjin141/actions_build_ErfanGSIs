@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download-xys.meizu.com/Firmware/Flyme/16T/9.21.6.11/cn_daily/20210611003522/9dd28e6e/update.zip
-  ROM_NAME: Flyme 
+  ROM_URL: https://wrjonline-my.sharepoint.com/personal/wwrrj_wrjonline_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwwrrj%5Fwrjonline%5Fonmicrosoft%5Fcom%2FDocuments%2F%E7%B1%BB%E5%8E%9F%E7%94%9F%2F16sPro%2FPixelExperience%5Fm1973%2D11%2E0%2D20210722%2D1329%2DUNOFFICIAL%2Ezip&parent=%2Fpersonal%2Fwwrrj%5Fwrjonline%5Fonmicrosoft%5Fcom%2FDocuments%2F%E7%B1%BB%E5%8E%9F%E7%94%9F%2F16sPro&originalPath=aHR0cHM6Ly93cmpvbmxpbmUtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvd3dycmpfd3Jqb25saW5lX29ubWljcm9zb2Z0X2NvbS9FV015YVdRektDeFBqN1pvQ3NudERZSUJGS0RzRTFSbDhpNGJYWG00NHZtWVZRP3J0aW1lPUtMNzRlV3BSMlVn
+  ROM_NAME: PixelExperience
   TZ: Asia/Shanghai
 
 jobs:
